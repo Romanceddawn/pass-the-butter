@@ -1,0 +1,8 @@
+prefix=/home/mlanas/Projects/pass-the-butter/catkin_ws/install
+
+Name: robot-core
+Description: Description of robot-core
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

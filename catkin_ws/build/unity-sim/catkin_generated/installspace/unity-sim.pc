@@ -1,0 +1,8 @@
+prefix=/home/mlanas/Projects/pass-the-butter/catkin_ws/install
+
+Name: unity-sim
+Description: Description of unity-sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
